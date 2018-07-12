@@ -1,0 +1,1 @@
+echo "Hello World : Running at : %date% %time%"
